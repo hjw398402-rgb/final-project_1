@@ -1,0 +1,5 @@
+torch
+transformers
+streamlit
+huggingface_hub
+sentencepiece
