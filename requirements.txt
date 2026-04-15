@@ -1,5 +1,7 @@
-torch
+fastapi
+uvicorn
 transformers
-streamlit
-huggingface_hub
 sentencepiece
+huggingface_hub
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.0.0+cpu
